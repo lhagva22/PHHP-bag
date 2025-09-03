@@ -16,3 +16,5 @@ git add README.md
 git commit -m "Анхны README файлыг нэмэв"
 # Өөрчлөлтүүдээ GitHub руу "push" хийх (илгээх)
 git push origin main
+
+//erdenebaatar
